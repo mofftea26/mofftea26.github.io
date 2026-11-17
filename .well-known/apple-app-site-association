@@ -1,0 +1,32 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "52D3KJ68SQ.com.anvlcoaching.app"
+        ],
+        "components": [
+          {
+            "/": "/anvl-legal/join"
+          },
+          {
+            "/": "/anvl-legal/join/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "52D3KJ68SQ.com.anvlcoaching.app.dev"
+        ],
+        "components": [
+          {
+            "/": "/anvl-legal/join"
+          },
+          {
+            "/": "/anvl-legal/join/*"
+          }
+        ]
+      }
+    ]
+  }
+}
